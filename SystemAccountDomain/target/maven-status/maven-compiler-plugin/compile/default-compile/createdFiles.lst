@@ -1,0 +1,3 @@
+org\example\domain\dto\Demo.class
+org\example\domain\exception\Demo2.class
+org\example\domain\service\GeneralResponse.class
